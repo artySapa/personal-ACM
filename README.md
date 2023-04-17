@@ -1,3 +1,6 @@
+# Personal website
+I created this website as an entry project for the ACM.hack club at UCLA. This web page presents some general information about me. After a quarter, this project won the first place in the competition of all the participants' projects and got a 100$ prize. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Personal
